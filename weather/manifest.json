@@ -1,0 +1,5 @@
+{
+  "name": "weather",
+  "version": "0.0.1",
+  "description": "Get current weather and forecasts (no API key required)."
+}
