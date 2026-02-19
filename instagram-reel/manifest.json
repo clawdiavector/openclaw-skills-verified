@@ -1,0 +1,5 @@
+{
+  "name": "instagram-reel",
+  "version": "0.0.1",
+  "description": "Download Instagram reels, extract audio, transcribe with Whisper, and summarize using AI."
+}
